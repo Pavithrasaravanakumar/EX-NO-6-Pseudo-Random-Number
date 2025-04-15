@@ -1,7 +1,7 @@
 # EX-NO-6-Pseudo-Random-Number
 
 ### NAME: PAVITHRA S
-### REG NO: 2122232200736
+### REG NO: 212223220073
 ### DATE: 10.04.2025
 
 # AIM: 
