@@ -40,6 +40,7 @@ End the program.
 ```
 
 # OUTPUT:
+![image](https://github.com/user-attachments/assets/227bd87b-568b-41d2-a638-61c569785bc3)
 
 
 # RESULT:
